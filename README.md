@@ -83,22 +83,18 @@ Please feel free to contact me.
  
 
 ## I have experience in:
-* 
-* 
-* 
-* 
-* 
+* Contrastive Learning
+* Generative Adversarial Networks
+* Multiple Instance Learning
+* Transfer learning
 
 ## Relative Coursework
-* 
+* Applied Statistics
+* Numerical Linear Algebra
+* Data Analysis and Optimization
 
 ## Projects:
 * 
-* 
-* 
 
 ## My Accomplishments
-* 
-* 
-* 
 * 
