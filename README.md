@@ -1,100 +1,52 @@
-# Hi there 👋 
-I'm Ronald, an undergraduate Applied Math student interested in ML & AI  
-
-<p align="left">
-<a href="mailto:ronaldnap17@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/ronaldnap/"><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</p>
-
-* 📫 How to reach me: ronaldnap17@gmail.com or rnap@ucmerced.edu
+# Hi there 👋
+I'm Ronald, an enthusiastic and dedicated undergraduate Applied Math student at UC Merced. My academic journey is highlighted by a robust GPA of 3.74 and an array of relevant coursework including Applied Statistics, Stochastic Processes, and Advanced Programming. Alongside my studies, I've actively engaged in ML research and leadership roles. 
 
 <details>
-<summary>📝 Experience.</summary>
-<br> 
+<summary>🌱 What I’m currently learning</summary>
+<br>
 
-Most Recently, I was
-- 
-- 
-- 
-  
----
+I'm deeply engrossed in the world of Machine Learning and AI, constantly exploring new techniques and methodologies to enhance my understanding and skills. My research ventures at the University have led me to address limitations in medical imaging using innovative solutions like **SimCLR** and **Multiple Instance Learning**.
 
 </details>
 
-
 <details>
-<summary>📧 Other ways to Get in Touch.</summary>
-<br> 
+<summary>🛠 Technical Skills</summary>
+<br>
 
-Please feel free to contact me.
-- **Github:** Click [here](https://github.com/napronald/napronald/issues/new/choose) to leave an issue. If you are contacting me about a project, please leave an issue in the relevant project repository. 
-- **LinkedIn:** Click [here](https://www.linkedin.com/in/ronaldnap/) to connect and message me)
----
-  
+- **Programming Languages:** Python (Advanced), C++ (Intermediate), R (Intermediate), Matlab (Intermediate), Java (Basic)
+- **Tools & Technologies:** Git, SQL, AWS, Docker, Colab, VScode, SLURM, Tableau
+- **Analytical Skills:** Machine Learning, Data Analysis, Statistical Modeling, Problem Solving
+
 </details>
 
 <details>
-<summary>My Interests.</summary>
-<br> 
-  
-* KPOP
-* League of Legends
-* Youtube
-* Working Out
-* Cooking
-* AI Research
+<summary>📝 Experience</summary>
+<br>
+
+- **Undergraduate Researcher:** Currently addressing limitations of traditional feature extractors in medical imaging at UC Merced.
+- **Summer Undergraduate Researcher:** Led a team to enhance the robustness and accuracy of classification models through Generative Adversarial Networks.
+- **Data Science Challenge Intern:** Designed models for diagnosing irregular heartbeats and reconstructing cardiac transmembrane potentials at Lawrence Livermore National Laboratory.
 
 </details>
 
-## Skills
-<p align="center">
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/>
-<img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
-<img alt="scikit-learn" src="https://img.shields.io/badge/sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-<img alt="Keras" src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
-<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/>
-<img alt="CUDA" src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
-<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white"/>
-<img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
-<img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
+<details>
+<summary>🎯 Personal Projects</summary>
+<br>
 
+- **Lung Cancer Diagnosis with Medical Imaging:** Managed a dataset of 25,000 images, focusing on lung cancer tissues, and implemented various machine learning models.
+- **Modeling the Relationship Between CO2 Emissions and Human Population:** Constructed mathematical models to analyze the correlation between CO2 emissions and human population dynamics.
 
-<table>
-  <tr>
-    <td><img src="https://streak-stats.demolab.com?user=napronald&ring=DD6304&theme=jolly" width="420"/></td>
-    <td>
-    <td><img src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966" width="250"/><td>
-    </td>
-  </tr>
-</table>
+</details>
 
+## 📫 How to reach me
+- **Email:** ronaldnap17@gmail.com
+- **LinkedIn:** [Ronald Nap](https://www.linkedin.com/in/ronaldnap/)
 
 <details>
-<summary>More Information.</summary>
-<br> 
-  
- 
+<summary>🌟 Leadership</summary>
+<br>
 
-## I have experience in:
-* Contrastive Learning
-* Generative Adversarial Networks
-* Multiple Instance Learning
-* Transfer learning
+- **SIAM Undergraduate Representative:** Representing undergraduate student interests and promoting mathematics and its applications among students at UC Merced.
+- **Learning Assistant:** Providing guidance and support to peers in Calculus, helping to clarify complex concepts and enhance overall academic performance.
 
-## Relative Coursework
-* Applied Statistics
-* Numerical Linear Algebra
-* Data Analysis and Optimization
-
-## Projects:
-* 
-
-## My Accomplishments
-* 
+</details>
