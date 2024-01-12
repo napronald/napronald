@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=napronald07&color=blue&style=flat-square&label=Profile+visitors)
+
 # Hi there 👋
 I'm Ronald, an enthusiastic and dedicated undergraduate Applied Math student at UC Merced. My academic journey is highlighted by an array of relevant coursework such as Applied Statistics, Stochastic Processes, and Advanced Programming. Alongside my coursework, I've actively engaged in ML research and leadership roles. 
 
