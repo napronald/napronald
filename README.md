@@ -51,5 +51,6 @@ I'm constantly exploring new techniques and methodologies to enhance my understa
 
 - **SIAM Undergraduate Representative:** Representing undergraduate student interests and promoting mathematics and its applications among students at UC Merced. Follow activities on [Instagram](https://www.instagram.com/ucmsiam/).
 - **Learning Assistant:** Providing guidance and support to peers in Calculus, helping to clarify complex concepts and enhance overall academic performance. Learn more about the [Learning Assistant Program](https://hhmi-ie.ucmerced.edu/capacity-building-projects/learning-assistant-program).
+- **ACM SIG Data Science Lead:** Creating and leading workshops focused on Data Science, guiding and interacting with students to foster their enthusiasm and skills in the field. Follow UC Merced ACM on [Instagram](https://www.instagram.com/ucmacm/).
 
 </details>
