@@ -1,13 +1,13 @@
-![](https://komarev.com/ghpvc/?username=napronald07&color=blue&style=flat-square&label=Profile+visitors)
+![](https://komarev.com/ghpvc/?username=napronald07&color=blue&style=flat-square&label=Profile+visitors) 
 
 # Hi there 👋
 I'm Ronald, an enthusiastic and dedicated undergraduate Applied Math student at UC Merced. My academic journey is highlighted by an array of relevant coursework such as Applied Statistics, Stochastic Processes, and Advanced Programming. Alongside my coursework, I've actively engaged in ML research and leadership roles. 
 
 <details>
-<summary>🌱 What I’m currently learning</summary>
+<summary>🌱 What I’m currently working on</summary>
 <br>
 
-I'm constantly exploring new techniques and methodologies to enhance my understanding and skills. My current research ventures to address limitations in medical imaging using innovative solutions like **SimCLR** and **Multiple Instance Learning**.
+I am currently focused on deploying models on a website, learning and applying a combination of **JavaScript**, **CSS**, **HTML**, and **Flask**. I aim to integrate advanced machine learning models with web technologies, enabling interactive and user-friendly web applications that leverage the power of AI.
 
 </details>
 
@@ -41,9 +41,6 @@ I'm constantly exploring new techniques and methodologies to enhance my understa
 
 </details>
 
-## 📫 How to reach me
-- **Email:** ronaldnap17@gmail.com
-- **LinkedIn:** [Ronald Nap](https://www.linkedin.com/in/ronaldnap/)
 
 <details>
 <summary>🌟 Leadership</summary>
@@ -53,4 +50,18 @@ I'm constantly exploring new techniques and methodologies to enhance my understa
 - **Learning Assistant:** Providing guidance and support to peers in Calculus, helping to clarify complex concepts and enhance overall academic performance. Learn more about the [Learning Assistant Program](https://hhmi-ie.ucmerced.edu/capacity-building-projects/learning-assistant-program).
 - **ACM SIG Data Science Lead:** Creating and leading workshops focused on Data Science, guiding and interacting with students to foster their enthusiasm and skills in the field. Follow UC Merced ACM on [Instagram](https://www.instagram.com/ucmacm/).
 
+</details>
+
+
+## 📫 How to reach me
+- **Email:** ronaldnap17@gmail.com
+- **LinkedIn:** [Ronald Nap](https://www.linkedin.com/in/ronaldnap/)
+
+
+<details>
+<summary>🏆 Bonus</summary>
+<br>
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ronaldnap&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+  
 </details>
