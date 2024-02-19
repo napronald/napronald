@@ -1,13 +1,13 @@
 ![](https://komarev.com/ghpvc/?username=napronald07&color=blue&style=flat-square&label=Profile+visitors) 
 
 # Hi there 👋
-I'm Ronald, an enthusiastic and dedicated undergraduate Applied Math student at UC Merced. My academic journey is highlighted by an array of relevant coursework such as Applied Statistics, Stochastic Processes, and Advanced Programming. Alongside my coursework, I've actively engaged in ML research and leadership roles. 
+I'm Ronald, a highly motivated Applied Mathematics undergraduate at UC Merced. Throughout my academic journey, I've deeply engaged in machine learning research and taken on significant leadership roles. Beyond my academics, I'm dedicated to enhancing my programming skills through self-study in web development and data structures/algorithms.
 
 <details>
 <summary>🌱 What I’m currently working on</summary>
 <br>
 
-I am currently focused on deploying models on a website, learning and applying a combination of **JavaScript**, **CSS**, **HTML**, and **Flask**. I aim to integrate advanced machine learning models with web technologies, enabling interactive and user-friendly web applications that leverage the power of AI.
+I am currently focused on deploying models on a website, learning and applying a combination of **JavaScript**, **CSS**, **HTML**, and **Flask**. I aim to integrate advanced machine learning models with web technologies, enabling interactive and user-friendly web applications that leverage the power of AI. In March, I will embark on a new project aimed at predicting interactions between drugs.
 
 </details>
 
@@ -17,7 +17,6 @@ I am currently focused on deploying models on a website, learning and applying a
 
 - **Programming Languages:** Python (Advanced), C++ (Intermediate), R (Intermediate), Matlab (Intermediate), Java (Basic)
 - **Tools & Technologies:** Git, SQL, AWS, Docker, Colab, VScode, SLURM, Tableau
-- **Analytical Skills:** Machine Learning, Data Analysis, Statistical Modeling, Problem Solving
 
 </details>
 
@@ -25,7 +24,7 @@ I am currently focused on deploying models on a website, learning and applying a
 <summary>📝 Experience</summary>
 <br>
 
-- **Undergraduate Researcher:** Currently addressing limitations of traditional feature extractors in medical imaging at [UC Merced](https://faculty.ucmerced.edu/rmarcia/index.html).
+- **Undergraduate Researcher:** My research focuses on the classification of Whole Slide Images. I am supervised by Prof. Roummel Marcia and graudate mentor Mohammed Aburidi at [UC Merced](https://faculty.ucmerced.edu/rmarcia/index.html).
 - **Summer Undergraduate Researcher:** Led a team to enhance the robustness and accuracy of classification models through Generative Adversarial Networks. Details on the program can be found in this [flyer](https://appliedmath.ucmerced.edu/sites/appliedmath.ucmerced.edu/files/page/documents/dirac_summer_research_flyer_1.pdf).
 - **Data Science Challenge Intern:** Designed models for diagnosing irregular heartbeats and reconstructing cardiac transmembrane potentials at [Lawrence Livermore National Laboratory](https://www.llnl.gov/article/50051/uc-merced-uc-riverside-tackle-data-science-challenge-machine-learning-assisted-heart-modeling).
 
@@ -54,7 +53,7 @@ I am currently focused on deploying models on a website, learning and applying a
 
 
 ## 📫 How to reach me
-- **Email:** ronaldnap17@gmail.com
+- **Email:** ronaldnap17@gmail.com rnap@ucmerced.edu
 - **LinkedIn:** [Ronald Nap](https://www.linkedin.com/in/ronaldnap/)
 
 
