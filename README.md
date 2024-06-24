@@ -1,22 +1,23 @@
 ![](https://komarev.com/ghpvc/?username=napronald07&color=blue&style=flat-square&label=Profile+visitors) 
 
 # Hi there 👋
-I'm Ronald, an incoming Master's student in Data Science at UC Berkeley this fall. I recently graduated from UC Merced with a Bachelor's in Applied Math. Throughout my undergrad, I was heavily involved in machine learning research and held several leadership positions. I am currently focused on enhancing my web development skills and improving my data structures and algorithms abilities through LeetCode.
+I'm Ronald, an incoming Master's student in Data Science at UC Berkeley this fall. I recently graduated from UC Merced with a Bachelor's in Applied Math. Throughout my undergrad, I was heavily involved in machine learning research and held several leadership positions. I am currently focused on enhancing my web development skills and improving my data structures and algorithms through LeetCode.
 
 [View My Resume](https://napronald.github.io/Resume.pdf) | [View My Website](https://napronald.github.io/)
 
-<details>
+<details open>
 <summary>🌱 What I’m currently working on</summary>
 <br>
-I am currently focused on integrating machine learning models into web applications, aiming to create interactive and user-friendly platforms that leverage AI to deliver impactful user experiences. Additionally, I am exploring natural language processing to broaden my understanding of its applications.
+  
+I am currently focused on integrating machine learning models into web applications, aiming to create interactive and user-friendly platforms that leverage AI to deliver impactful user experiences. Additionally, I am exploring natural language processing to broaden my understanding of its applications. Starting in July, I will begin my internship as a Machine Learning Software Engineer at [Valeo](https://www.valeo.com/en/).
 
 </details>
 
-<details>
+<details open>
 <summary>🛠 Technical Skills</summary>
 <br>
 
-- **Programming Languages:** Python, C++, R, SQL, Matlab, LaTeX
+- **Programming Languages:** Python, C++, R, SQL, Matlab, LaTeX 
 - **Libraries:** PyTorch, Tensorflow, SciKit, NumPy, Pandas, Matplotlib, Torchvision, OpenCV, Pillow, NLTK
 - **Web Development:** JavaScript, CSS, HTML, Flask, React
 - **Tools & Technologies:** Git, AWS, Docker, HuggingFace, SLURM, Tableau
@@ -65,7 +66,7 @@ I am currently focused on integrating machine learning models into web applicati
 - **Email:** rnap@berkeley.edu | ronaldnap17@gmail.com
 - **LinkedIn:** [Ronald Nap](https://www.linkedin.com/in/ronaldnap/)
 
-<details>
+<details open>
 <summary>🏆 Bonus</summary>
 <be>
 
