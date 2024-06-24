@@ -1,13 +1,12 @@
 ![](https://komarev.com/ghpvc/?username=napronald07&color=blue&style=flat-square&label=Profile+visitors) 
 
 # Hi there 👋
-I'm Ronald, a recent Applied Math graduate from UC Merced, preparing to begin my master's in Data Science this fall. Throughout my academic journey, I've deeply engaged in machine learning research and taken on significant leadership roles. Beyond my academics, I'm dedicated to enhancing my programming skills through web development and data structures/algorithms.
+I'm Ronald, an incoming Master's student in Data Science at UC Berkeley this fall. I recently graduated from UC Merced with a Bachelor's in Applied Math. Throughout my undergrad, I was heavily involved in machine learning research and held several leadership positions. I am currently focused on enhancing my web development skills and improving my data structures and algorithms abilities through LeetCode.
 
 <details>
 <summary>🌱 What I’m currently working on</summary>
 <br>
-
-I am currently focused on the integration of machine learning models into web applications. I am in the process of creating interactive and user-friendly web applications that leverage the power of AI to deliver impactful user experiences. On the side, I am also trying to learn more about natural language processing.
+I am currently focused on integrating machine learning models into web applications, aiming to create interactive and user-friendly platforms that leverage AI to deliver impactful user experiences. Additionally, I am exploring natural language processing to broaden my understanding of its applications.
 
 </details>
 
@@ -16,8 +15,8 @@ I am currently focused on the integration of machine learning models into web ap
 <br>
 
 - **Programming Languages:** Python, C++, R, SQL, Matlab, LaTeX
-- **Libraries:** PyTorch, Tensorflow, SciKit, NumPy, Pandas
-- **Web Development:** JavaScript, CSS, HTML
+- **Libraries:** PyTorch, Tensorflow, SciKit, NumPy, Pandas, Matplotlib, Torchvision, OpenCV, Pillow, NLTK
+- **Web Development:** JavaScript, CSS, HTML, Flask, React
 - **Tools & Technologies:** Git, AWS, Docker, HuggingFace, SLURM, Tableau
 
 </details>
@@ -26,9 +25,10 @@ I am currently focused on the integration of machine learning models into web ap
 <summary>📝 Experience</summary>
 <br>
 
-- **Undergraduate Researcher:** My research focuses on the classification of Whole Slide Images. I was supervised by [Prof. Roummel Marcia](https://faculty.ucmerced.edu/rmarcia/index.html) and graduate mentor Mohammed Aburidi. My work has been accepted for publication and presentation at IEEE EMBC 24.
-- **Summer Undergraduate Researcher:** Led a team to enhance the robustness and accuracy of classification models through Generative Adversarial Networks. Details on the program can be found in this [flyer](https://appliedmath.ucmerced.edu/sites/appliedmath.ucmerced.edu/files/page/documents/dirac_summer_research_flyer_1.pdf).
-- **Data Science Challenge Intern:** Designed models for diagnosing irregular heartbeats and reconstructing cardiac transmembrane potentials at [Lawrence Livermore National Laboratory](https://www.llnl.gov/article/50051/uc-merced-uc-riverside-tackle-data-science-challenge-machine-learning-assisted-heart-modeling).
+- **Undergraduate Researcher:** My research focuses on the classification of Whole Slide Images. I was supervised by [Prof. Roummel Marcia](https://faculty.ucmerced.edu/rmarcia/index.html) and graduate mentor Mohammed Aburidi. My work has been accepted for publication and presentation at IEEE EMBC 24. You can view my work [Paper](https://napronald.github.io/EMBC24.pdf) |  [Code](https://github.com/napronald/GI-Cancer-MSI-CCNet-MIL)
+  
+- **Summer Undergraduate Researcher:** Led a team to enhance the robustness and accuracy of classification models through Generative Adversarial Networks. You can find the work I did [here](https://github.com/napronald/Synthetic-Data-Generation-for-Deep-Learning-Model-Enhancement).
+- **Data Science Challenge Intern:** Designed models for diagnosing irregular heartbeats and reconstructing cardiac transmembrane potentials at Lawrence Livermore National Laboratory. You can find the work I did [here](https://github.com/napronald/Data-Science-Challenge-2023/blob/main/DSC_poster.pptx.pdf)
 
 </details>
 
@@ -47,20 +47,20 @@ I am currently focused on the integration of machine learning models into web ap
 <summary>🌟 Leadership</summary>
 <br>
 
-- **SIAM Undergraduate Representative:** Representing undergraduate student interests and promoting mathematics and its applications among students at UC Merced. Follow activities on [Instagram](https://www.instagram.com/ucmsiam/).
-- **Learning Assistant:** Providing guidance and support to peers in Calculus, helping to clarify complex concepts and enhance overall academic performance. Learn more about the [Learning Assistant Program](https://hhmi-ie.ucmerced.edu/capacity-building-projects/learning-assistant-program).
-- **ACM SIG Data Science Lead:** Creating and leading workshops focused on Data Science, guiding and interacting with students to foster their enthusiasm and skills in the field. Follow UC Merced ACM on [Instagram](https://www.instagram.com/ucmacm/).
+- **SIAM Undergraduate Representative:**  I represented the interests of undergraduate students and facilitated communication within the SIAM community at UC Merced. I also organized events and activities to promote mathematics and its applications among students. Follow activities on [Instagram](https://www.instagram.com/ucmsiam/).
+- **Learning Assistant:** I provided academic support to students taking Calculus, helping them understand concepts and improve their performance. Learn more about the [Learning Assistant Program](https://hhmi-ie.ucmerced.edu/capacity-building-projects/learning-assistant-program).
+- **ACM SIG Data Science Lead:** I created and led interactive workshops focused on Data Science for over 50 undergraduate students. Follow UC Merced ACM on [Instagram](https://www.instagram.com/ucmacm/).
 
 </details>
 
 ## 📫 How to reach me
-- **Email:** ronaldnap17@gmail.com
+- **Email:** rnap@berkeley.edu | ronaldnap17@gmail.com
 - **LinkedIn:** [Ronald Nap](https://www.linkedin.com/in/ronaldnap/)
 
 <details>
 <summary>🏆 Bonus</summary>
-<br>
+<be>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ronaldnap&cover_image=false&theme=default&show_offline=true&background_color=121212&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ronaldnap&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ronaldnap&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true)
 
 </details>
