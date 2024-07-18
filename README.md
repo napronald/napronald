@@ -3,7 +3,7 @@
 # Hi there 👋
 I'm Ronald, an incoming Master's student in Data Science at UC Berkeley this fall. I recently graduated from UC Merced with a Bachelor's in Applied Math. Throughout my undergrad, I was heavily involved in machine learning research and held several leadership positions. I am currently focused on enhancing my web development skills and improving my data structures and algorithms through LeetCode.
 
-[View My Resume](https://napronald.github.io/Resume.pdf) | [View My Website](https://napronald.github.io/)
+[View My Resume](https://napronald.github.io/documents/Resume.pdf) | [View My Website](https://napronald.github.io/)
 
 <details open>
 <summary>🌱 What I’m currently working on</summary>
@@ -28,7 +28,7 @@ I am currently focused on integrating machine learning models into web applicati
 <summary>📝 Experience</summary>
 <br>
 
-- **Undergraduate Researcher:** My research focuses on the classification of Whole Slide Images. I was supervised by [Prof. Roummel Marcia](https://faculty.ucmerced.edu/rmarcia/index.html) and graduate mentor Mohammed Aburidi. My work has been accepted for publication and presentation at IEEE EMBC 24. You can view my work [Paper](https://napronald.github.io/EMBC24.pdf) |  [Code](https://github.com/napronald/GI-Cancer-MSI-CCNet-MIL)
+- **Undergraduate Researcher:** My research focuses on the classification of Whole Slide Images. I was supervised by [Prof. Roummel Marcia](https://faculty.ucmerced.edu/rmarcia/index.html) and graduate mentor Mohammed Aburidi. My work has been accepted for publication and presentation at IEEE EMBC 24. You can view my work [Paper](https://napronald.github.io/documents/EMBC24.pdf) |  [Code](https://github.com/napronald/GI-Cancer-MSI-CCNet-MIL) | [Slides](https://napronald.github.io/documents/Slides.pdf)
   
 - **Summer Undergraduate Researcher:** Led a team to enhance the robustness and accuracy of classification models through Generative Adversarial Networks. You can find the work I did [here](https://github.com/napronald/Synthetic-Data-Generation-for-Deep-Learning-Model-Enhancement).
   
