@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=napronald07&color=blue&style=flat-square&label=Profile+visitors) 
 
 # Hi there 👋
-I'm Ronald, an incoming Master's student in Data Science at UC Berkeley this fall. I recently graduated from UC Merced with a Bachelor's in Applied Math. Throughout my undergrad, I was heavily involved in machine learning research and held several leadership positions. I am currently focused on enhancing my web development skills and improving my data structures and algorithms through LeetCode.
+I'm Ronald, a Master's student studying Data Science at UC Berkeley. I graduated with a Bachelor's in Applied Math from UC Merced. Throughout my undergrad, I was heavily involved in machine learning research and held several leadership positions. Occasionally, I try to enhance my web development skills and improve my data structures and algorithms through LeetCode.
 
 [View My Resume](https://napronald.github.io/documents/Resume.pdf) | [View My Website](https://napronald.github.io/)
 
@@ -9,7 +9,7 @@ I'm Ronald, an incoming Master's student in Data Science at UC Berkeley this fal
 <summary>🌱 What I’m currently working on</summary>
 <br>
   
-I am currently focused on integrating machine learning models into web applications, aiming to create interactive and user-friendly platforms that leverage AI to deliver impactful user experiences. Additionally, I am exploring natural language processing to broaden my understanding of its applications. Starting in July, I will begin my internship as a Machine Learning Software Engineer at [Valeo](https://www.valeo.com/en/).
+I am focused on integrating machine learning models into web applications, aiming to create interactive and user-friendly platforms that leverage AI to deliver impactful user experiences. Additionally, I am exploring natural language processing to broaden my understanding of its applications. Currently, I am interning at [Valeo](https://www.valeo.com/en/) as a Machine Learning Software Engineer as part of the Driving Assistance Research (DAR) Team.
 
 </details>
 
@@ -20,7 +20,7 @@ I am currently focused on integrating machine learning models into web applicati
 - **Programming Languages:** Python, C++, R, SQL, Matlab, LaTeX 
 - **Libraries:** PyTorch, Tensorflow, SciKit, NumPy, Pandas, Matplotlib, Torchvision, OpenCV, Pillow, NLTK
 - **Web Development:** JavaScript, CSS, HTML, Flask, React
-- **Tools & Technologies:** Git, AWS, Docker, HuggingFace, SLURM, Tableau
+- **Tools & Technologies:** Git, AWS, Docker, HuggingFace, SLURM, Tableau, CVAT, Blender, Colmap
 
 </details>
 
@@ -28,11 +28,9 @@ I am currently focused on integrating machine learning models into web applicati
 <summary>📝 Experience</summary>
 <br>
 
-- **Undergraduate Researcher:** My research focuses on the classification of Whole Slide Images. I was supervised by [Prof. Roummel Marcia](https://faculty.ucmerced.edu/rmarcia/index.html) and graduate mentor Mohammed Aburidi. My work has been accepted for publication and presentation at IEEE EMBC 24. You can view my work [Paper](https://napronald.github.io/documents/EMBC24.pdf) |  [Code](https://github.com/napronald/GI-Cancer-MSI-CCNet-MIL) | [Slides](https://napronald.github.io/documents/Slides.pdf)
-  
-- **Summer Undergraduate Researcher:** Led a team to enhance the robustness and accuracy of classification models through Generative Adversarial Networks. You can find the work I did [here](https://github.com/napronald/Synthetic-Data-Generation-for-Deep-Learning-Model-Enhancement).
-  
-- **Data Science Challenge Intern:** Designed models for diagnosing irregular heartbeats and reconstructing cardiac transmembrane potentials at Lawrence Livermore National Laboratory. You can find the work I did [here](https://github.com/napronald/Data-Science-Challenge-2023/blob/main/DSC_poster.pptx.pdf)
+My background includes interning at [Valeo](https://www.valeo.com/en/), publishing a [paper](https://napronald.github.io/documents/EMBC24.pdf) on medical imaging at [IEEE EMBC 24](https://embc.embs.org/2024/), interning at [Lawrence Livermore National Lab](https://www.llnl.gov/), and participating in a [summer research program](https://uroc.ucmerced.edu/suri).
+
+Overall, I am equipped with the ability to build machine learning models end-to-end, comprehend academic literature, and implement state-of-the-art models.
 
 </details>
 
