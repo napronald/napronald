@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=napronald07&color=blue&style=flat-square&label=Profile+visitors) 
 
 # Hi there 👋
-I'm Ronald, a Master's student studying Data Science at UC Berkeley. I graduated with a Bachelor's in Applied Math from UC Merced. Throughout my undergrad, I was heavily involved in machine learning research and held several leadership positions. Occasionally, I try to enhance my web development skills and improve my data structures and algorithms through LeetCode.
+I'm Ronald, a Master's student studying Data Science at UC Berkeley. Before that, I did my undergrad in Applied Math at UC Merced. Currently, I am interning at [Valeo](https://www.valeo.com/en/) working on Simultaneous Localization and Mapping (SLAM).
 
 [View My Resume](https://napronald.github.io/documents/Resume.pdf) | [View My Website](https://napronald.github.io/)
 
@@ -9,7 +9,7 @@ I'm Ronald, a Master's student studying Data Science at UC Berkeley. I graduated
 <summary>🌱 What I’m currently working on</summary>
 <br>
   
-I am focused on integrating machine learning models into web applications, aiming to create interactive and user-friendly platforms that leverage AI to deliver impactful user experiences. Additionally, I am exploring natural language processing to broaden my understanding of its applications. Currently, I am interning at [Valeo](https://www.valeo.com/en/) as a Machine Learning Software Engineer as part of the Driving Assistance Research (DAR) Team.
+Currently, I am taking classes as a full-time student at UC Berkeley and interning 40 hours a week at [Valeo](https://www.valeo.com/en/). 
 
 </details>
 
@@ -17,10 +17,11 @@ I am focused on integrating machine learning models into web applications, aimin
 <summary>🛠 Technical Skills</summary>
 <br>
 
-- **Programming Languages:** Python, C++, R, SQL, Matlab, LaTeX 
-- **Libraries:** PyTorch, Tensorflow, SciKit, NumPy, Pandas, Matplotlib, Torchvision, OpenCV, Pillow, NLTK
-- **Web Development:** JavaScript, CSS, HTML, Flask, React
-- **Tools & Technologies:** Git, AWS, Docker, HuggingFace, SLURM, Tableau, CVAT, Blender, Colmap
+[![Python](https://img.shields.io/badge/-Python-141414?style=flat&logo=python)](https://www.python.org/) ![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c%2B%2B) [![R](https://img.shields.io/badge/-R-141414?style=flat&logo=r)](https://www.r-project.org/) [![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)](https://www.postgresql.org/) ![LaTeX](https://img.shields.io/badge/-LaTeX-141414?style=flat&logo=latex) [![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)](https://www.javascript.com/) ![CSS](https://img.shields.io/badge/-CSS-141414?style=flat&logo=css3) ![HTML](https://img.shields.io/badge/-HTML-141414?style=flat&logo=html5)
+
+[![PyTorch](https://img.shields.io/badge/-PyTorch-141414?style=flat&logo=pytorch)](https://pytorch.org/) [![TensorFlow](https://img.shields.io/badge/-TensorFlow-141414?style=flat&logo=tensorflow)](https://www.tensorflow.org/) ![SciKit](https://img.shields.io/badge/-SciKit-141414?style=flat&logo=scikit-learn) ![NumPy](https://img.shields.io/badge/-NumPy-141414?style=flat&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-141414?style=flat&logo=pandas)  ![Torchvision](https://img.shields.io/badge/-Torchvision-141414?style=flat&logo=pytorch) ![OpenCV](https://img.shields.io/badge/-OpenCV-141414?style=flat&logo=opencv)
+
+[![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)](https://git-scm.com/) [![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)](https://docker.com) [![HuggingFace](https://img.shields.io/badge/-HuggingFace-141414?style=flat&logo=huggingface)](https://huggingface.co/) [![Tableau](https://img.shields.io/badge/-Tableau-141414?style=flat&logo=tableau)](https://www.tableau.com/) [![Blender](https://img.shields.io/badge/-Blender-141414?style=flat&logo=blender)](https://www.blender.org/)  [![Flask](https://img.shields.io/badge/-Flask-141414?style=flat&logo=flask)](https://flask.palletsprojects.com/en/2.0.x/) [![React](https://img.shields.io/badge/-React-141414?style=flat&logo=react)](https://reactjs.org/)
 
 </details>
 
@@ -28,15 +29,12 @@ I am focused on integrating machine learning models into web applications, aimin
 <summary>📝 Experience</summary>
 <br>
 
-My background includes interning at [Valeo](https://www.valeo.com/en/), publishing a [paper](https://napronald.github.io/documents/EMBC24.pdf) on medical imaging at [IEEE EMBC 24](https://embc.embs.org/2024/), interning at [Lawrence Livermore National Lab](https://www.llnl.gov/), and participating in a [summer research program](https://uroc.ucmerced.edu/suri).
-
-Overall, I am equipped with the ability to build machine learning models end-to-end, comprehend academic literature, and implement state-of-the-art models.
+My background includes interning at [Valeo](https://www.valeo.com/en/), publishing a [paper](https://napronald.github.io/documents/EMBC24.pdf) on medical imaging at [IEEE EMBC 24](https://embc.embs.org/2024/), interning at [Lawrence Livermore National Lab](https://www.llnl.gov/), and participating in a [summer research program](https://uroc.ucmerced.edu/suri). Overall, I am equipped with the ability to build machine learning models end-to-end, comprehend academic literature, and implement state-of-the-art models.
 
 </details>
 
 <details>
 <summary>🎯 Personal Projects</summary>
-<br>
   
 - **DigitPro99:** Interactive web-based digit recognition application capable of real-time prediction, comprehensive user interactions, dynamic image annotation, and data retrieval. [View Project Here](https://napronald.github.io/DigitPro99/)
   
@@ -50,7 +48,6 @@ Overall, I am equipped with the ability to build machine learning models end-to-
 
 <details>
 <summary>🌟 Leadership</summary>
-<br>
 
 - **SIAM Undergraduate Representative:**  I represented the interests of undergraduate students and facilitated communication within the SIAM community at UC Merced. I also organized events and activities to promote mathematics and its applications among students. Follow activities on [Instagram](https://www.instagram.com/ucmsiam/).
   
@@ -68,7 +65,11 @@ Overall, I am equipped with the ability to build machine learning models end-to-
 <summary>🏆 Bonus</summary>
 <be>
 
-![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ronaldnap&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ronaldnap&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true)
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ronaldnap&redirect=true&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true" width="320" height="auto" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=napronald&hide=css,html&theme=dark&layout=compact&hide_border=true&icon_color=ffa8fb" width="275" height="auto" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=napronald&theme=default&background=1a1a1a&border=1a1a1a&stroke=ffffff&ring=ffffff&fire=ffa500&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=00ff00&sideNums=ff4500&dates=ffffff" width="375" height="auto"/>
+</div>
 
 ## Personal Interests
 
