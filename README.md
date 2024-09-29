@@ -66,7 +66,7 @@ My background includes interning at [Valeo](https://www.valeo.com/en/), publishi
 <be>
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=ronaldnap&redirect=true&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true" width="320" height="auto" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ronaldnap&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false" width="320" height="auto" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=napronald&hide=css,html&theme=dark&layout=compact&hide_border=true&icon_color=ffa8fb" width="275" height="auto" />
 </div>
 
