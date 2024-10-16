@@ -61,7 +61,7 @@ My background includes interning at [Valeo](https://www.valeo.com/en/), publishi
 - **Email:** rnap@berkeley.edu | ronaldnap17@gmail.com
 - **LinkedIn:** [Ronald Nap](https://www.linkedin.com/in/ronaldnap/)
 
-<details open>
+<details>
 <summary>🏆 Bonus</summary>
 <be>
 
