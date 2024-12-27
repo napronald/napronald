@@ -25,16 +25,6 @@ Currently, I am taking classes as a full-time student at UC Berkeley and interni
 
 </details>
 
-
 ## 📫 How to reach me
 - **Email:** rnap@berkeley.edu | ronaldnap17@gmail.com
 - **LinkedIn:** [Ronald Nap](https://www.linkedin.com/in/ronaldnap/)
-
-<details>
-<summary>🏆 Bonus</summary>
-<be>
-
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ronaldnap&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false" width="320" height="auto" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=napronald&hide=css,html&theme=dark&layout=compact&hide_border=true&icon_color=ffa8fb" width="275" height="auto" />
-</div>
