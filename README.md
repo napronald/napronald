@@ -25,37 +25,6 @@ Currently, I am taking classes as a full-time student at UC Berkeley and interni
 
 </details>
 
-<details>
-<summary>📝 Experience</summary>
-<br>
-
-My background includes interning at [Valeo](https://www.valeo.com/en/), publishing a [paper](https://napronald.github.io/documents/EMBC24.pdf) on medical imaging at [IEEE EMBC 24](https://embc.embs.org/2024/), interning at [Lawrence Livermore National Lab](https://www.llnl.gov/), and participating in a [summer research program](https://uroc.ucmerced.edu/suri). Overall, I am equipped with the ability to build machine learning models end-to-end, comprehend academic literature, and implement state-of-the-art models.
-
-</details>
-
-<details>
-<summary>🎯 Personal Projects</summary>
-  
-- **DigitPro99:** Interactive web-based digit recognition application capable of real-time prediction, comprehensive user interactions, dynamic image annotation, and data retrieval. [View Project Here](https://napronald.github.io/DigitPro99/)
-  
-- **Lung Cancer Diagnosis with Medical Imaging:** Managed a dataset of 25,000 images, focusing on lung cancer tissues, and implemented various machine learning models. [View Project Here](https://github.com/napronald/Lung-Cancer-Diagnosis-with-Medical-Imaging/)
-  
-- **Modeling the Relationship Between CO2 Emissions and Human Population:** Constructed mathematical models to analyze the correlation between CO2 emissions and human population dynamics. [View Project Here](https://github.com/napronald/Modeling-the-Relationship-Between-CO2-Emissions-and-Human-Population/)
-  
-- **Fifa Players Analysis Dashboard:** Interactive dashboard, created using Tableau, provides detailed insights into FIFA player statistics from the years 2018 to 2022. [View Project Here](https://napronald.github.io/FifaDashboard/)
-  
-</details>
-
-<details>
-<summary>🌟 Leadership</summary>
-
-- **SIAM Undergraduate Representative:**  I represented the interests of undergraduate students and facilitated communication within the SIAM community at UC Merced. I also organized events and activities to promote mathematics and its applications among students. Follow activities on [Instagram](https://www.instagram.com/ucmsiam/).
-  
-- **Learning Assistant:** I provided academic support to students taking Calculus, helping them understand concepts and improve their performance. Learn more about the [Learning Assistant Program](https://hhmi-ie.ucmerced.edu/capacity-building-projects/learning-assistant-program).
-  
-- **ACM SIG Data Science Lead:** I created and led interactive workshops focused on Data Science for over 50 undergraduate students. Follow UC Merced ACM on [Instagram](https://www.instagram.com/ucmacm/).
-
-</details>
 
 ## 📫 How to reach me
 - **Email:** rnap@berkeley.edu | ronaldnap17@gmail.com
@@ -69,17 +38,3 @@ My background includes interning at [Valeo](https://www.valeo.com/en/), publishi
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=ronaldnap&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=false" width="320" height="auto" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?&username=napronald&hide=css,html&theme=dark&layout=compact&hide_border=true&icon_color=ffa8fb" width="275" height="auto" />
 </div>
-
-## Personal Interests
-
-🎵 **Music:** I believe music fuels creativity and helps maintain a balanced lifestyle. I am an avid K-pop fan, with [Aespa](https://en.wikipedia.org/wiki/Aespa) and [Ive](https://en.wikipedia.org/wiki/Ive_(group)) being my favorite groups! My favorite songs are [Love Dive](https://www.youtube.com/watch?v=Y8JFxS1HlDo) and [Supernova](https://www.youtube.com/watch?v=phuiiNCxRMg).
-
-🏀 **Sports:** I love following the [NBA](https://www.nba.com/) and [NFL](https://www.nfl.com/). My favorite teams are the Golden State Warriors and the San Francisco 49ers. My favorite players are [Kevin Durant](https://en.wikipedia.org/wiki/Kevin_Durant) and [Steph Curry](https://en.wikipedia.org/wiki/Stephen_Curry).
-
-🏃‍♂️ **Fitness:** I enjoy staying active through running and weightlifting. I typically run 3-5 miles weekly and believe in maintaining physical health to boost mental well-being.
-
-🍲 **Food:** I’m a big fan of hotpot and boba. Some of my favorite spots are [Boiling Point](https://www.bpgroupusa.com/) for hotpot and [Sunright](https://www.snrtea.com/) for boba. Exploring new places to eat is one of my favorite pastimes.
-
-🤝 **Mentorship:** Providing mentorship is important to me. I have greatly benefited from the mentorship I received during my research journey, and I am committed to providing the same support and guidance to others.
-
-</details>
